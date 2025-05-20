@@ -574,7 +574,7 @@ void freeCircuit(Circuit* circuit) {
 
 int main() {
     // Parse the Verilog file
-    Circuit* circuit = parseVerilogFile("c432 (1).v");
+    Circuit* circuit = parseVerilogFile("c17.v");
     
     // Print circuit details
     printCircuit(circuit);
