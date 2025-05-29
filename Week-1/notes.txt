@@ -1,0 +1,11 @@
+- Implement NAND(X) - till 7
+- fault simulation algorithm ("each node" detail is required) - 2nd
+    - some node might always be stuck at 0 or 1
+    - erroneous output
+- 11 - branching into 2 (special case and care to be given)
+    - 
+- Functional simulation - try all inputs and map all the outputs (initial target) - show the node values as well
+
+
+----------------|--------------
+N21             | 1
