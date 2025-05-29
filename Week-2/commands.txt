@@ -1,0 +1,6 @@
+gcc -Wall -Wextra -o verisim main.c verilog_parser.c gate_logic.c
+
+verisim - name of the executable file created
+main.c - the main file containing the execution of the code
+verilog_parser.c - description of a header file which reads your file
+gate_logic.c - has the logic behind the implemented gates
